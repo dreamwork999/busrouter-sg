@@ -1,10 +1,12 @@
-node_modules
-.DS_Store
-dist
-tmp
-*/_*
-.cache
-.parcel-cache
-.env
-data/3/route-lines
-.vscode
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
